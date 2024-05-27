@@ -10,7 +10,7 @@
     box-sizing: border-box; 
   }
   
-  header {
+  header { 
     background-color: var(--verdim);
     color: #fff;
     padding: 20px;
